@@ -25,15 +25,19 @@ Contained in this analysis done with jupyter notebook:
 * A series of scatter plots to showcase the following relationships:
 
 <p align="center">**_Temperature (F) vs. Latitude_**
+<br><br>
 ![Summary](https://github.com/KGore12/python-api-challenge/blob/main/images/Temperature_vs_Latitude.png)
  
 <p align="center">**_Humidity (%) vs. Latitude_**
+ <br><br>
 ![Summary](https://github.com/KGore12/python-api-challenge/blob/main/images/Latitude_vs_Humidity.png)
       
 <p align="center">**_Cloudiness (%) vs. Latitude_**
+ <br><br>
 ![Summary](https://github.com/KGore12/python-api-challenge/blob/main/images/Latitude_vs_Cloudiness.png)
       
 <p align="center">**_Wind Speed (mph) vs. Latitude_**
+ <br><br>
 ![Summary](https://github.com/KGore12/python-api-challenge/blob/main/images/Latitude_vs_WindSpeed.png)
 
 *  A series of linear regression plots on each relationship, separated into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude).
