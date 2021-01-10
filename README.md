@@ -21,3 +21,19 @@ Contained in this analysis done with jupyter notebook:
 * A print log of each city as it's being processed with the city number and city name.
 
 * Saved CSV file of all retrieved data and a PNG images for each scatter plot.
+
+* A series of scatter plots to showcase the following relationships:
+
+Temperature (F) vs. Latitude
+![Summary](https://github.com/KGore12/python-api-challenge/blob/main/images/Temperature_vs_Latitude.png)
+ 
+Humidity (%) vs. Latitude
+![Summary](https://github.com/KGore12/python-api-challenge/blob/main/images/Latitude_vs_Humidity.png)
+      
+Cloudiness (%) vs. Latitude
+![Summary](https://github.com/KGore12/python-api-challenge/blob/main/images/Latitude_vs_Cloudiness.png)
+      
+Wind Speed (mph) vs. Latitude
+![Summary](https://github.com/KGore12/python-api-challenge/blob/main/images/Latitude_vs_WindSpeed.png)
+
+
