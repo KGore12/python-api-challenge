@@ -30,13 +30,13 @@ Contained in this analysis done with jupyter notebook:
  
 **_Humidity (%) vs. Latitude_**
  <br><br>
-<p align="left">![Summary](https://github.com/KGore12/python-api-challenge/blob/main/images/Latitude_vs_Humidity.png)
+![Summary](https://github.com/KGore12/python-api-challenge/blob/main/images/Latitude_vs_Humidity.png)
       
-<p align="center">**_Cloudiness (%) vs. Latitude_**
+**_Cloudiness (%) vs. Latitude_**
  <br><br>
 ![Summary](https://github.com/KGore12/python-api-challenge/blob/main/images/Latitude_vs_Cloudiness.png)
       
-<p align="center">**_Wind Speed (mph) vs. Latitude_**
+**_Wind Speed (mph) vs. Latitude_**
  <br><br>
 ![Summary](https://github.com/KGore12/python-api-challenge/blob/main/images/Latitude_vs_WindSpeed.png)
 
