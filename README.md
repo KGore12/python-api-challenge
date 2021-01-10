@@ -8,7 +8,7 @@ Now, we know what you may be thinking: "Duh. It gets hotter..."
 
 But, if pressed, how would you prove it?
 
-![Summary](https://github.com/KGore12/python-api-challenge/blob/main/WeatherPy/output_files/equatorsign.png)
+![Summary](https://github.com/KGore12/python-api-challenge/blob/main/images/equatorsign.png)
 
 
 ## Part I - WeatherPy
