@@ -26,7 +26,7 @@ Contained in this analysis done with jupyter notebook:
 
 Temperature (F) vs. Latitude
 ![Summary](https://github.com/KGore12/python-api-challenge/blob/main/images/Temperature_vs_Latitude.png)
-      
+ 
 Humidity (%) vs. Latitude
 ![Summary](https://github.com/KGore12/python-api-challenge/blob/main/images/Latitude_vs_Humidity.png)
       
