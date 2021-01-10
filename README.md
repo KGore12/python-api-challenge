@@ -26,7 +26,7 @@ Contained in this analysis done with jupyter notebook:
 
 **_Temperature (F) vs. Latitude_**
 <br><br>
-![Summary](<img align="left" width="100" height="100" src=https://github.com/KGore12/python-api-challenge/blob/main/images/Temperature_vs_Latitude.png">)
+![Summary](https://github.com/KGore12/python-api-challenge/blob/main/images/Temperature_vs_Latitude.png)
  
 **_Humidity (%) vs. Latitude_**
  <br><br>
