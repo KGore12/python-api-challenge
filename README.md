@@ -25,7 +25,7 @@ Contained in this analysis done with jupyter notebook:
 * A series of scatter plots to showcase the following relationships:
 
      **_Temperature (F) vs. Latitude_**
-![Summary](https://github.com/KGore12/python-api-challenge/blob/main/WeatherPY/output_files/Temperature (°F) vs Latitude.png)
+![Summary](https://github.com/KGore12/python-api-challenge/blob/main/images/Temperature_vs_Latitude.png)
  
      **_Humidity (%) vs. Latitude_**
 ![Summary](https://github.com/KGore12/python-api-challenge/blob/main/images/Latitude_vs_Humidity.png)
