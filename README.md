@@ -24,16 +24,16 @@ Contained in this analysis done with jupyter notebook:
 
 * A series of scatter plots to showcase the following relationships:
 
-      Temperature (F) vs. Latitude
+Temperature (F) vs. Latitude
 ![Summary](https://github.com/KGore12/python-api-challenge/blob/main/images/Temperature_vs_Latitude.png)
       
-      Humidity (%) vs. Latitude
+Humidity (%) vs. Latitude
 ![Summary](https://github.com/KGore12/python-api-challenge/blob/main/images/Latitude_vs_Humidity.png)
       
-      Cloudiness (%) vs. Latitude
+Cloudiness (%) vs. Latitude
 ![Summary](https://github.com/KGore12/python-api-challenge/blob/main/images/Latitude_vs_Cloudiness.png)
       
-      Wind Speed (mph) vs. Latitude
+Wind Speed (mph) vs. Latitude
 ![Summary](https://github.com/KGore12/python-api-challenge/blob/main/images/Latitude_vs_WindSpeed.png)
 
 
