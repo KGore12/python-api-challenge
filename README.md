@@ -46,12 +46,12 @@ Contained in this analysis done with jupyter notebook:
  * Use jupyter-gmaps and the Google Places API for this part of the assignment.
  
  * Heat maps were created to display the humidity for every city from the part I of the homework.
- <br><br
+ <br><br>
  **_Heatmap for Humidity_**
-  <br><br
+ <br><br>
 ![Summary](https://github.com/KGore12/python-api-challenge/blob/main/images/heatmap1.png)
-  <br><br
-    <br><br
+ <br><br>
+ <br><br>
  **_Heatmap with Hotels_**
-  <br><br
+ <br><br>
 ![Summary](https://github.com/KGore12/python-api-challenge/blob/main/images/heatmap3.png)
