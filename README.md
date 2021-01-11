@@ -48,10 +48,12 @@ Contained in this analysis done with jupyter notebook:
  * Heat maps were created to display the humidity for every city from the part I of the homework.
  <br><br>
  **_Heatmap for Humidity_**
+* Narrowed down the DataFrame to find ideal weather conditions. 
  <br><br>
 ![Summary](https://github.com/KGore12/python-api-challenge/blob/main/images/heatmap1.png)
  <br><br>
- <br><br>
  **_Heatmap with Hotels_**
+* Used Google Places API to find the first hotel for each city located within 5000 meters of coordinates.
+* Ploted the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country.
  <br><br>
 ![Summary](https://github.com/KGore12/python-api-challenge/blob/main/images/heatmap3.png)
